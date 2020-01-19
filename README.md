@@ -1,4 +1,5 @@
 ```
+$ tsc  # compiles without error
 $ node tmp.js
 (node:2751) UnhandledPromiseRejectionWarning: Error: Evaluation failed: ReferenceError: isLeafElement is not defined
     at findEntry (__puppeteer_evaluation_script__:3:17)
